@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fczaczaja%2Fsdk-nrf.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fczaczaja%2Fsdk-nrf?ref=badge_shield)
+
 nRF Connect SDK: sdk-nrf
 ########################
 
@@ -16,3 +18,7 @@ Documentation
 Official latest documentation at https://docs.nordicsemi.com/bundle/ncs-latest/page/nrf/index.html
 
 For earlier versions, open the latest version and use the drop-down under the title header.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fczaczaja%2Fsdk-nrf.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fczaczaja%2Fsdk-nrf?ref=badge_large)
